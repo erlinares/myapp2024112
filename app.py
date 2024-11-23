@@ -31,3 +31,10 @@ if "Explorar Datos" in selected_page:
     st.write("""
     ## Explore Data
     Distributions""")
+
+if "Feature Engineering" in selected_page:
+    st.write("""
+    ## Feature Engineering
+    New Dataset""")
+
+
